@@ -1,0 +1,3 @@
+# FormingMagicSquare
+FormingMagicSquare
+Solution FormingMagicSquare
